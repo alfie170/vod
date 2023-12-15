@@ -1,0 +1,13 @@
+{"sites":[
+{"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","protocol":"DRPY_Crack","ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/drpy.js","searchable":1,"searchable":1},
+{"key":"drpy_js_直播大全","name":"电视 | 直播大全[js]","protocol":"IPTV","ext":"https://raw.githubusercontent.com/chicken111/gao/master/js/live2mv_data1.json"},
+{"key":"drpy_js_wogg","name":"玩偶哥哥","protocol":"DRPY_Crack","ext":"https://raw.githubusercontent.com/chicken111/gao/master/js/wogg.js","searchable":1},
+{"key":"drpy_js_jojo","name":"JOJO","protocol":"DRPY_Crack","ext":"https://raw.githubusercontent.com/chicken111/gao/master/js/jojo.js","searchable":0},
+{"key":"海外看","name":"海外看","protocol": "VOD","ext":"https://haiwaikan.com/api.php/provide/vod/","searchable":1},
+{"key":"索尼","name":"索尼","protocol": "VOD","ext":"https://suoniapi.com/api.php/provide/vod/","searchable":1}
+{"key":"drpy_js_低端","name":"影视 | 低端[js]","protocol":"DRPY_Crack","ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/ddys_d.js","searchable":1},
+{"key":"drpy_js_厂长资源","name":"影视 | 厂长资源[js]","protocol":"DRPY_Crack","ext":"https://raw.githubusercontent.com/chicken111/gao/master/js/厂长资源.js","searchable":1},
+{"key":"drpy_js_voflix","name":"影视 | voflix[js]","protocol":"DRPY_Crack","ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/voflix.js","searchable":1},
+{"key":"drpy_js_热播库","name":"影视 | 热播库[js]","protocol":"DRPY_Crack","ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/热播库.js","searchable":1}
+],
+"extensions":["https://raw.githubusercontent.com/chicken111/gao/master/lib/DRPY.zip","https://raw.githubusercontent.com/chicken111/gao/master/lib/IPTV.zip","https://raw.githubusercontent.com/chicken111/gao/master/lib/Alist_Ya.zip"]}
