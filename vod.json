@@ -11,7 +11,6 @@
 {"key":"drpy_js_在线之家","name":"影视 | 在线之家[js]","protocol":"DRPY_Crack","ext":"https://raw.githubusercontent.com/chicken111/gao/master/js/在线之家.js","searchable":1},
 
 {"key":"红牛","name":"红牛","protocol": "VOD","ext":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1},
-{"key":"海外看","name":"海外看","protocol": "VOD","ext":"https://haiwaikan.com/api.php/provide/vod/","searchable":1},
-{"key":"索尼","name":"索尼","protocol": "VOD","ext":"https://suoniapi.com/api.php/provide/vod/","searchable":0}
+{"key":"海外看","name":"海外看","protocol": "VOD","ext":"https://haiwaikan.com/api.php/provide/vod/","searchable":1}
 ],
 "extensions":["https://raw.githubusercontent.com/chicken111/gao/master/lib/DRPY.zip","https://raw.githubusercontent.com/chicken111/gao/master/lib/IPTV.zip","https://raw.githubusercontent.com/chicken111/gao/master/lib/Alist_Ya.zip"]}
