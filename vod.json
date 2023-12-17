@@ -5,13 +5,12 @@
 
 {"key":"drpy_js_wogg","name":"玩偶哥哥","protocol":"DRPY_Crack","ext":"https://raw.githubusercontent.com/chicken111/gao/master/js/wogg.js","searchable":1},
 {"key":"drpy_js_jojo","name":"JOJO","protocol":"DRPY_Crack","ext":"https://raw.githubusercontent.com/chicken111/gao/master/js/jojo.js","searchable":0},
-{"key":"drpy_js_gitcafe","name":"小纸条","protocol":"DRPY_Crack","ext":"https://raw.githubusercontent.com/chicken111/gao/master/js/gitcafe.js","searchable":1},
 
 {"key":"drpy_js_voflix","name":"影视 | voflix[js]","protocol":"DRPY_Crack","ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/voflix.js","searchable":1},
 {"key":"drpy_js_热播库","name":"影视 | 热播库[js]","protocol":"DRPY_Crack","ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/热播库.js","searchable":1},
-{"key":"drpy_js_在线之家","name":"影视 | 在线之家[js]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/chicken111/gao/master/js/在线之家.js","searchable":1},
+{"key":"drpy_js_在线之家","name":"影视 | 在线之家[js]","protocol":"DRPY_Crack","ext":"https://raw.githubusercontent.com/chicken111/gao/master/js/在线之家.js","searchable":1},
 
-
+{"key":"红牛","name":"红牛","protocol": "VOD","ext":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1},
 {"key":"海外看","name":"海外看","protocol": "VOD","ext":"https://haiwaikan.com/api.php/provide/vod/","searchable":1},
 {"key":"索尼","name":"索尼","protocol": "VOD","ext":"https://suoniapi.com/api.php/provide/vod/","searchable":1}
 ],
