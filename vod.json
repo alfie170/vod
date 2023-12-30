@@ -3,13 +3,18 @@
 {"key":"drpy_js_直播大全","name":"电视 | 直播大全[js]","protocol":"IPTV","ext":"https://raw.githubusercontent.com/chicken111/gao/master/js/live2mv_data1.json"},
 {"key":"drpy_js_Alist","name":"网盘 | Alist[js]","protocol":"Alist","ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/alist.json"},
 
-{"key":"drpy_js_wogg","name":"玩偶哥哥","protocol":"DRPY_Crack","ext":"https://raw.githubusercontent.com/chicken111/gao/master/js/wogg.js","searchable":1},
+{"key":"drpy_js_wogg","name":"玩偶哥哥","protocol":"DRPY_Crack","ext":"https://raw.githubusercontent.com/chicken111/gao/master/js/wogg.js","searchable":0},
+{"key":"drpy_js_woggxyz","name":"玩偶哥哥xyz","protocol":"DRPY_Crack","ext":"https://raw.githubusercontent.com/chicken111/gao/master/js/woggxyz.js","searchable":1},
+{"key":"drpy_js_woggb","name":"玩偶哥哥[备]","protocol":"DRPY_Crack","ext":"https://raw.githubusercontent.com/chicken111/gao/master/js/woggb.js","searchable":0},
+{"key":"drpy_js_wobg","name":"玩偶表哥","protocol":"DRPY_Crack","ext":"https://raw.githubusercontent.com/chicken111/gao/master/js/wobg.js","searchable":1},
 {"key":"drpy_js_jojo","name":"JOJO","protocol":"DRPY_Crack","ext":"https://raw.githubusercontent.com/chicken111/gao/master/js/jojo.js","searchable":0},
 
-{"key":"drpy_js_voflix","name":"影视 | voflix[js]","protocol":"DRPY_Crack","ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/voflix.js","searchable":1},
+
 {"key":"drpy_js_热播库","name":"影视 | 热播库[js]","protocol":"DRPY_Crack","ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/热播库.js","searchable":1},
 {"key":"drpy_js_在线之家","name":"影视 | 在线之家[js]","protocol":"DRPY_Crack","ext":"https://raw.githubusercontent.com/chicken111/gao/master/js/在线之家.js","searchable":1},
 
+{"key":"drpy_js_独播库[飞]","name":"起飞 | 独播库[js]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/独播库[飞].js","searchable":1},
+{"key":"drpy_js_欧乐影院[飞]","name":"起飞 | 欧乐影院[js]","protocol":"DRPY_Crack","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/欧乐影院[飞].js","searchable":1},
 {"key":"红牛","name":"红牛","protocol": "VOD","ext":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1},
 {"key":"海外看","name":"海外看","protocol": "VOD","ext":"https://haiwaikan.com/api.php/provide/vod/","searchable":1}
 ],
