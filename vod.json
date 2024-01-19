@@ -17,4 +17,4 @@
 {"key":"红牛","name":"红牛","protocol": "VOD","ext":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1},
 {"key":"海外看","name":"海外看","protocol": "VOD","ext":"https://haiwaikan.com/api.php/provide/vod/","searchable":1},
 ],
-"extensions":["https://raw.githubusercontent.com/chicken111/gao/master/lib/DRPY.zip","https://raw.githubusercontent.com/chicken111/gao/master/lib/IPTV.zip","https://raw.githubusercontent.com/chicken111/gao/master/lib/Alist_Ya.zip"]}
+"extensions":["https://raw.githubusercontent.com/gitbox520/gao/master/lib/DRPY.zip?V1","https://raw.githubusercontent.com/gitbox520/gao/master/lib/IPTV.zip","https://raw.githubusercontent.com/gitbox520/gao/master/lib/Alist_Ya.zip?v4","http://file.cubeplayer.top/Alist.zip?v=2","http://file.cubeplayer.top/Alist_VOD.zip?v=3"]}
